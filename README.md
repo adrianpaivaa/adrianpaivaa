@@ -2,13 +2,6 @@
 
 <p>🎓 Estudante de Engenharia de Computação no CEFET-MG.</p>  
 
-<p>🚀 Atualmente focado em:</p>  
-
-- Desenvolvimento em C, C++ e Java
-- Estruturas de dados, algoritmos e orientação a objetos
-- Simulações computacionais e projetos acadêmicos
-
-
 <h3>🚀 Principais Skills</h3>
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
